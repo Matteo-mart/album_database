@@ -1,6 +1,3 @@
-Ce projet est la suite logique ou le moteur de données de ton API HTTP. En BTS SIO, il est crucial de montrer que tu maîtrises la persistance des données et la communication avec un SGBD (Système de Gestion de Base de Données) via un langage de programmation.
-
-Voici une proposition de README pour album_database :
 🗄️ Projet : album_database (Data Management en Go)
 ## Présentation du projet
 
